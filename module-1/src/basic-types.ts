@@ -17,7 +17,7 @@ stringTypeVariable.charAt(1);
 
 console.log(stringTypeVariable);
 
-// implicit types of typescript
+// implicit types of typescript or inference
 // when typescript automatically understand the type of the declared variable is known as the implicit types
 const implicitTypesVariable = 'This is a implicit stype variable';
 
