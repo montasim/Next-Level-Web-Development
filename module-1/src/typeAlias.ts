@@ -19,3 +19,13 @@ const crushObject2: CrushObjectType = {
     profession: 'Housewife',
     address: 'Rangpur',
 }
+
+type OperationType = (x: number, y: number) => number;
+const calculate = (number1: number, number2: number, operation: OperationType): number => {
+    return operation(number1, number2);
+}
+
+console.log(calculate(10, 20, (x, y) => x + y));
+console.log(calculate(10, 20, (x, y) => x - y));
+console.log(calculate(10, 20, (x, y) => x * y));
+console.log(calculate(10, 20, (x, y) => x / y));
