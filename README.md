@@ -48,74 +48,7 @@ NOTE: Notes will be added by Mission name
     <summary> Mission 1: Be a TypeScript Technocratat (Module - 2) </summary>
     <ol>
         <li>
-            <details>
-                <summary> Module 2: Explore Basic Types of TypeScript </summary>
-                <ol>
-                    <li> 
-                        <details>
-                            <summary> Installation TypeScript, NVM & ts-node-dev </summary>
-                        </details>
-                    </li>
-                    <li> 
-                        <details>
-                            <summary> Primitive types in TypeScript </summary>
-<pre>
-1. String
-2. Number
-3. Boolean
-4. Null
-5. Undefined
-
-a. TypeScript type declaration:
-    1. Explicit type declarations: When de declare data types
-    2. Implicit type declaration / Inferences: When TypeScript automatically declares data types
-
-b. let someVariable = undefined; // any type variable
-</pre>
-                        </details>
-                    </li>
-                    <li> 
-                        <details>
-                            <summary> Array and Tuples in TypeScript </summary>
-                        </details>
-                    </li>
-                    <li> 
-                        <details>
-                            <summary> Object, Literal Types, and Optional types </summary>
-                        </details>
-                    </li>
-                    <li> 
-                        <details>
-                            <summary> Functions in Typescript  </summary>
-                        </details>
-                    </li>
-                    <li> 
-                        <details>
-                            <summary> Spread, Rest, Default Parameters, and Destructuring </summary>
-                        </details>
-                    </li>
-                    <li> 
-                        <details>
-                            <summary> Type alias and optional types </summary>
-                        </details>
-                    </li>
-                    <li> 
-                        <details>
-                            <summary> Union, Intersection and Enum Types </summary>
-                        </details>
-                    </li>
-                    <li> 
-                        <details>
-                            <summary> Null, Unknown and Never Types </summary>
-                        </details>
-                    </li>
-                    <li> 
-                        <details>
-                            <summary> Ternary Operator , Nullish Coeslancing Operator, Module Summary </summary>
-                        </details>
-                    </li>
-                </ol>
-            </details>
+            <a href="./missions/mission-1/module-2.md"> Module 2: Explore Basic Types of TypeScript </a>
         </li>
         <li>
             <details>
