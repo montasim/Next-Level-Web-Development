@@ -25,7 +25,7 @@ NOTE: Notes will be added by Mission name
 
 <br/>
 
-## Contents:
+## CONTENTS:
   - [Missions](#missions)
   - [Used Packages](#used-packages)
   - [Tools](#tools)
@@ -36,7 +36,7 @@ NOTE: Notes will be added by Mission name
 
 <br/>
 
-## Missions
+## MISSIONS
 
 <details>
     <summary> Mission 0: Welcome To Next Level Web Development (Module - 1) </summary>
@@ -185,7 +185,7 @@ b. let someVariable = undefined; // any type variable
 
 <br/>
 
-## Used Packages
+## USED PACKAGES
 
 - [yarn](https://yarnpkg.com/) - *Yarn is a package manager that doubles down as project manager.*
 - [typescript](https://www.typescriptlang.org/) - *TypeScript is JavaScript with syntax for types*
@@ -195,30 +195,32 @@ b. let someVariable = undefined; // any type variable
 
 <br/>
 
-## Tools
+## TOOLS
 
 <br/>
 
-## Articles
+## ARTICLES
+
+- [NVM for Windows – How to Download and Install Node Version Manager in Windows 10](https://www.freecodecamp.org/news/nvm-for-windows-how-to-download-and-install-node-version-manager-in-windows-10/)
 
 <br/>
 
-## Tutorials
+## TUTORIALS
 
 <br/>
 
-## Contribute
+## CONTRIBUTE
 
 Contributions are always welcome!
 Please read the [contribution guidelines](contributing.md) first.
 
 <br/>
 
-## Special Thanks 🙇
+## SPECIAL THANKS
 
 <br/>
 
-## License
+## LICENSE
 
 <br/>
 <br/>
