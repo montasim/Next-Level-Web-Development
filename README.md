@@ -155,12 +155,24 @@ b. let someVariable = undefined; // any type variable
 
 <br/>
 <br/>
+
+<img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=19&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=155&height=19&lines=USED+PACKAGES" alt="USED PACKAGES" />
+
+<ol>
+    <li> <a href="https://www.npmjs.com/package/yarn"> yarn </a> </li>
+    <li> <a href="https://www.npmjs.com/package/typescript"> typescript </a> </li>
+    <li> <a href="https://www.npmjs.com/package/nodemon"> nodemon </a> </li>
+    <li> <a href="https://www.npmjs.com/package/ts-node-dev"> ts-node-dev </a> </li>
+</ol>
+
+<br/>
+<br/>
 <br/>
 <br/>
 
 <!-- feel free to contact me text start -->
 <div> 
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=385&height=21&lines=FEEL+FREE+TO+CONTACT+ME+ANYTIME" alt="feel free to contact me svg" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=370&height=21&lines=FEEL+FREE+TO+CONTACT+ME+ANYTIME" alt="feel free to contact me svg" />
 </div>
 <!-- feel free to contact me text end -->
 
