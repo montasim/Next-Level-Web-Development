@@ -34,8 +34,123 @@ NOTE: Notes will be added by Mission name
 
 <details>
     <summary> Mission 1: Be a TypeScript Technocratat (Module - 2) </summary>
-    <br/>
-    
+    <ol>
+        <li>
+            <details>
+                <summary> Module 2: Explore Basic Types of TypeScript </summary>
+                <ol>
+                    <li> 
+                        <details>
+                            <summary> Installation TypeScript, NVM & ts-node-dev </summary>
+                        </details>
+                    </li>
+                    <li> 
+                        <details>
+                            <summary> Primitive types in TypeScript </summary>
+<pre>
+1. String
+2. Number
+3. Boolean
+4. Null
+5. Undefined
+
+a. TypeScript type declaration:
+    1. Explicit type declarations: When de declare data types
+    2. Implicit type declaration / Inferences: When TypeScript automatically declares data types
+
+b. let someVariable = undefined; // any type variable
+</pre>
+                        </details>
+                    </li>
+                    <li> 
+                        <details>
+                            <summary> Array and Tuples in TypeScript </summary>
+                        </details>
+                    </li>
+                    <li> 
+                        <details>
+                            <summary> Object, Literal Types, and Optional types </summary>
+                        </details>
+                    </li>
+                    <li> 
+                        <details>
+                            <summary> Functions in Typescript  </summary>
+                        </details>
+                    </li>
+                    <li> 
+                        <details>
+                            <summary> Spread, Rest, Default Parameters, and Destructuring </summary>
+                        </details>
+                    </li>
+                    <li> 
+                        <details>
+                            <summary> Type alias and optional types </summary>
+                        </details>
+                    </li>
+                    <li> 
+                        <details>
+                            <summary> Union, Intersection and Enum Types </summary>
+                        </details>
+                    </li>
+                    <li> 
+                        <details>
+                            <summary> Null, Unknown and Never Types </summary>
+                        </details>
+                    </li>
+                    <li> 
+                        <details>
+                            <summary> Ternary Operator , Nullish Coeslancing Operator, Module Summary </summary>
+                        </details>
+                    </li>
+                </ol>
+            </details>
+        </li>
+        <li>
+            <details>
+                <summary> Module 3: Explore Advance Types of TypeScript </summary>
+                <ol>
+                  <li> Type Assertion </li>
+                  <li> Interface, Type vs Interface </li>
+                  <li> Introduction of Generic in Type </li>
+                  <li> Generic in Interface </li>
+                  <li> Generic in Function </li>
+                  <li> Constraints in Generics </li>
+                  <li> Generic Constraints Using Key Of Part 1 </li>
+                  <li> Asynchronous TypeScript </li>
+                  <li> Conditional Types </li>
+                  <li> Mapped Types </li>
+                </ol>
+            </details>
+        </li>
+        <li>
+            <details>
+                <summary> Module 4: Object-Oriented Programming in TypeScript </summary>
+                <ol>
+                  <li> Introduction To Object Oriented Programming </li>
+                  <li> How to Create Class, Object, Parameter Properties </li>
+                  <li> Inheritance </li>
+                  <li> Type Guards / Type Narrowing </li>
+                  <li> Access Modifiers: Public, Private, Protected </li>
+                  <li> Getters and Setters in Typescript </li>
+                  <li> Static in Class </li>
+                  <li> Polymorphism </li>
+                  <li> Abstraction  </li>
+                  <li> Encapsulation and Module Summary </li>
+                </ol>
+            </details>
+        </li>
+        <li>
+            <details>
+                <summary> Module 5.5: Bonus Module </summary>
+                <ol>
+                  <li> What is a module, different formats of module technique, import, and export </li>
+                  <li> Different types of Import and export statement </li>
+                  <li> Know About utility Types </li>
+                  <li> THow to use multiple interface as a type and create a model for a class </li>
+                </ol>
+            </details>
+        </li>
+    </ol>
 </details>
 
 <br/>
