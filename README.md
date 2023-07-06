@@ -24,16 +24,19 @@ NOTE: Notes will be added by Mission name
 ```
 
 <br/>
-<br/>
 
-### Contents:
+## Contents:
   - [Missions](#missions)
-      - [Mission 0: Welcome To Next Level Web Development (Module - 1)](#mission-0:-welcome-to-next-level-web-development-(module---1))
+  - [Used Packages](#used-packages)
   - [Tools](#tools)
   - [Articles](#articles)
   - [Video Tutorials](#tutorials)
   - [Contribute](#contribute)
   - [License](#license)
+
+<br/>
+
+## Missions
 
 <details>
     <summary> Mission 0: Welcome To Next Level Web Development (Module - 1) </summary>
@@ -162,10 +165,27 @@ b. let someVariable = undefined; // any type variable
     </ol>
 </details>
 
-<br/>
+<details>
+    <summary> Mission 2: Be A Mongoose Master (Module - 3) </summary>
+    <br/>
+    
+</details>
+
+<details>
+    <summary> Mission 3: Be A NoSQL Backend Braniac (Module - 4) </summary>
+    <br/>
+    
+</details>
+
+<details>
+    <summary> Mission 4: Be A Redux Reaper (Module - 5) </summary>
+    <br/>
+    
+</details>
+
 <br/>
 
-<img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=19&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=155&height=19&lines=USED+PACKAGES" alt="USED PACKAGES" />
+## Used Packages
 
 <ol>
     <li> <a href="https://www.npmjs.com/package/yarn"> yarn </a> </li>
@@ -174,20 +194,30 @@ b. let someVariable = undefined; // any type variable
     <li> <a href="https://www.npmjs.com/package/ts-node-dev"> ts-node-dev </a> </li>
 </ol>
 
-## Missions
+<br/>
 
-## tools
+## Tools
 
-## articles
+<br/>
+
+## Articles
+
+<br/>
 
 ## Tutorials
+
+<br/>
 
 ## Contribute
 
 Contributions are always welcome!
 Please read the [contribution guidelines](contributing.md) first.
 
+<br/>
+
 ## Special Thanks 🙇
+
+<br/>
 
 ## License
 
