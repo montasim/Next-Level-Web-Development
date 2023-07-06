@@ -15,8 +15,9 @@ function kgToGram(param) {
     }
 }
 const resultToBeString = kgToGram('100');
+// const resultToBeString = kgToGram('100') as number; // typescript will not show error for type assertion
 const resultToBeNumber = kgToGram(100);
-const resultToBeUndefined = kgToGram(undefined);
+const resultToBeUndefined = kgToGram(undefined); // another way of type assertion
 console.log(resultToBeString);
 console.log(resultToBeNumber);
 console.log(resultToBeUndefined);
