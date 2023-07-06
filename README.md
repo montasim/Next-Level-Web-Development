@@ -24,7 +24,19 @@ NOTE: Notes will be added by Mission name
 ```
 
 <br/>
+
+## CONTENTS:
+  - [Missions](#missions)
+  - [Used Packages](#used-packages)
+  - [Tools](#tools)
+  - [Articles](#articles)
+  - [Video Tutorials](#tutorials)
+  - [Contribute](#contribute)
+  - [License](#license)
+
 <br/>
+
+## MISSIONS
 
 <details>
     <summary> Mission 0: Welcome To Next Level Web Development (Module - 1) </summary>
@@ -153,17 +165,62 @@ b. let someVariable = undefined; // any type variable
     </ol>
 </details>
 
-<br/>
+<details>
+    <summary> Mission 2: Be A Mongoose Master (Module - 3) </summary>
+    <br/>
+    
+</details>
+
+<details>
+    <summary> Mission 3: Be A NoSQL Backend Braniac (Module - 4) </summary>
+    <br/>
+    
+</details>
+
+<details>
+    <summary> Mission 4: Be A Redux Reaper (Module - 5) </summary>
+    <br/>
+    
+</details>
+
 <br/>
 
-<img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=19&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=155&height=19&lines=USED+PACKAGES" alt="USED PACKAGES" />
+## USED PACKAGES
 
-<ol>
-    <li> <a href="https://www.npmjs.com/package/yarn"> yarn </a> </li>
-    <li> <a href="https://www.npmjs.com/package/typescript"> typescript </a> </li>
-    <li> <a href="https://www.npmjs.com/package/nodemon"> nodemon </a> </li>
-    <li> <a href="https://www.npmjs.com/package/ts-node-dev"> ts-node-dev </a> </li>
-</ol>
+- [yarn](https://yarnpkg.com/) - *Yarn is a package manager that doubles down as project manager.*
+- [typescript](https://www.typescriptlang.org/) - *TypeScript is JavaScript with syntax for types*
+- [nodemon](https://nodemon.io/) - *Simple monitor script for use during development of a Node.js app*
+- [ts-node-dev](https://www.npmjs.com/package/ts-node-dev) - *TypeScript execution environment and REPL for node.js*
+
+
+<br/>
+
+## TOOLS
+
+<br/>
+
+## ARTICLES
+
+- [NVM for Windows – How to Download and Install Node Version Manager in Windows 10](https://www.freecodecamp.org/news/nvm-for-windows-how-to-download-and-install-node-version-manager-in-windows-10/)
+
+<br/>
+
+## TUTORIALS
+
+<br/>
+
+## CONTRIBUTE
+
+Contributions are always welcome!
+Please read the [contribution guidelines](contributing.md) first.
+
+<br/>
+
+## SPECIAL THANKS
+
+<br/>
+
+## LICENSE
 
 <br/>
 <br/>
