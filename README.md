@@ -187,12 +187,11 @@ b. let someVariable = undefined; // any type variable
 
 ## Used Packages
 
-<ol>
-    <li> <a href="https://www.npmjs.com/package/yarn"> yarn </a> </li>
-    <li> <a href="https://www.npmjs.com/package/typescript"> typescript </a> </li>
-    <li> <a href="https://www.npmjs.com/package/nodemon"> nodemon </a> </li>
-    <li> <a href="https://www.npmjs.com/package/ts-node-dev"> ts-node-dev </a> </li>
-</ol>
+- [yarn](https://yarnpkg.com/) - *Yarn is a package manager that doubles down as project manager.*
+- [typescript](https://www.typescriptlang.org/) - *TypeScript is JavaScript with syntax for types*
+- [nodemon](https://nodemon.io/) - *Simple monitor script for use during development of a Node.js app*
+- [ts-node-dev](https://www.npmjs.com/package/ts-node-dev) - *TypeScript execution environment and REPL for node.js*
+
 
 <br/>
 
