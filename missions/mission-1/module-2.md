@@ -1,5 +1,7 @@
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=460&height=21&lines=Module 2: Explore Basic Types of TypeScript" alt="Module 2: Explore Basic Types of TypeScript" />
 
+<hr/>
+
 ### 1. Installation TypeScript, NVM & ts-node-dev
 
 <br/>
