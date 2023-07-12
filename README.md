@@ -153,6 +153,7 @@ NOTE: Notes will be added by Mission name
 ## TOOLS
 
 - [typescript-mongoose-eslint-husky-staged boilerplate](https://github.com/tauhid-hasan-dev/typescript-mongo-mongoose-express-server-with-eslint-prettier-husky-lint-staged)
+- [BreakTimer](https://breaktimer.app/#download)
 
 <br/>
 
@@ -182,6 +183,7 @@ Please read the [contribution guidelines](contributing.md) first.
 ## SPECIAL THANKS
 
 - [Tauhid Hasan](https://github.com/tauhid-hasan-dev) for his [typescript-mongoose-eslint-husky-staged boilerplate](https://github.com/tauhid-hasan-dev/typescript-mongo-mongoose-express-server-with-eslint-prettier-husky-lint-staged)
+- [Dipto Karmaker](https://www.facebook.com/dipto.karmaker.9) for his suggestion to use [BreakTimer](https://breaktimer.app/#download)
 
 <br/>
 
