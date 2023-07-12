@@ -152,6 +152,8 @@ NOTE: Notes will be added by Mission name
 
 ## TOOLS
 
+- [typescript-mongoose-eslint-husky-staged boilerplate](https://github.com/tauhid-hasan-dev/typescript-mongo-mongoose-express-server-with-eslint-prettier-husky-lint-staged)
+
 <br/>
 
 ## ARTICLES
@@ -178,6 +180,8 @@ Please read the [contribution guidelines](contributing.md) first.
 <br/>
 
 ## SPECIAL THANKS
+
+- [Tauhid Hasan](https://github.com/tauhid-hasan-dev) for his [typescript-mongoose-eslint-husky-staged boilerplate](https://github.com/tauhid-hasan-dev/typescript-mongo-mongoose-express-server-with-eslint-prettier-husky-lint-staged)
 
 <br/>
 
