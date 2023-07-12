@@ -129,10 +129,10 @@ NOTE: Notes will be added by Mission name
     <summary> Mission 4: Be A Redux Reaper (Module - 5) </summary>
     <ol>
         <li>
-            <a href="./missions/mission-1/module-20.md"> Module 20: Get started with Redux. A deep dive into Redux's philosophy </a>
+            <a href="./missions/mission-4/module-20.md"> Module 20: Get started with Redux. A deep dive into Redux's philosophy </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-21.md"> Module 21: Hands on State Management & Crud Operation </a>
+            <a href="./missions/mission-4/module-21.md"> Module 21: Hands on State Management & Crud Operation </a>
         </li>
     </ol>
 </details>
