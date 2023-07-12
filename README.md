@@ -31,6 +31,7 @@ NOTE: Notes will be added by Mission name
   - [Tools](#tools)
   - [Articles](#articles)
   - [Video Tutorials](#tutorials)
+  - [Inspirations](#inspirations)
   - [Contribute](#contribute)
   - [License](#license)
 
@@ -160,6 +161,12 @@ NOTE: Notes will be added by Mission name
 <br/>
 
 ## TUTORIALS
+
+<br/>
+
+## INSPIRATIONS
+
+- [Wallpaper - For daily inspiration](./media/images/inspiration-wallpaper.jpeg)
 
 <br/>
 
