@@ -49,7 +49,7 @@ NOTE: Notes will be added by Mission name
     <summary> Mission 1: Be a TypeScript Technocratat (Module - 2) </summary>
     <ol>
         <li>
-            <a href="./missions/mission-1/module-2.md"> Module 2: Explore Basic Types of TypeScript </a>
+            <a href="./missions/mission-1/module-2/notes.md"> Module 2: Explore Basic Types of TypeScript </a>
         </li>
         <li>
             <a href="./missions/mission-1/module-3.md"> Module 3: Explore Advance Types of TypeScript </a>
