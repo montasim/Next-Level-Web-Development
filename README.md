@@ -174,6 +174,7 @@ NOTE: Notes will be added by Mission name
 - [MongoDB's Update Operators: Mastering $push, $set, and $addToSet for Efficient Data Management](./articles/mongodbs-update-operators.md)
 - [Unleashing the Power of Querying : Discover MongoDB's $not and $nor Operators](./articles/unleashing-the-power-of-querying.md)
 - [Boost Your MongoDB Queries: Deep Dive into $in, $nin, and $or Operators](./articles/deep-dive-into-in-nin-and-or-operators.md)
+- [Permanently removing a file from git history](https://stackoverflow.com/questions/58161926/permanently-removing-a-file-from-git-history)
 
 <br/>
 
@@ -252,6 +253,7 @@ Please read the [contribution guidelines](contributing.md) first.
 - [Mehedi Anik](https://www.facebook.com/groups/196275986482127/user/100005038366015/?__cft__[0]=AZWT2tLQUda8c7i9m_lbGsy3ZAsCgKj-UOGZomNYcmWhJl0isEYWm2QkfEPGpfUUoqU1UtyRwD-zgemkiVMA5Ju6AaLu2SDX_aV2lXqwVeA_qsNqwQN-0Zr8uEtV0PN_0oorrkAeOXIW70aJhfpzMZo_&__tn__=-UC%2CP-R) for [MongoDB's Update Operators: Mastering $push, $set, and $addToSet for Efficient Data Management](./articles/mongodbs-update-operators.md)
 - [Samin Israr Ravi](https://www.facebook.com/groups/196275986482127/user/100024504072245/?__cft__[0]=AZVXMf8IphXlnTvY7qwcQ0QO7uiL7oRHma-Y2f4ZYZmLuA5utedOgUforGrAAzwhRGABmlKi90kbpUgMv73adUjUM-BtRg_mDji7n4qiApFa0DLdIfx8xsNHQ-QsKBM6AgGDhkclvR7Il49uPqSpFbpW&__tn__=-UC%2CP-R) for [Unleashing the Power of Querying : Discover MongoDB's $not and $nor Operators](./articles/unleashing-the-power-of-querying.md)
 - [Tanmoy Parvez](https://www.facebook.com/groups/196275986482127/user/100009656776349/?__cft__[0]=AZUTBiFBXKkM2Ou-flLonre4RhYVx3SnK18PebfVuXDUlrxpsfhojJ_LVew6cxFtkyWkZBcwnG3IZpWXN_2-NEt6wqrJhqSSQIXhgjuN5ZKkevXcd4fnDUmYmp-uC73SL7YdPz8q5V86RcSICkG3F2_e&__tn__=-UC%2CP-R) for [Boost Your MongoDB Queries: Deep Dive into $in, $nin, and $or Operators](./articles/deep-dive-into-in-nin-and-or-operators.md)
+- [Simba](https://stackoverflow.com/users/5101148/simba) for [Permanently removing a file from git history](https://stackoverflow.com/questions/58161926/permanently-removing-a-file-from-git-history)
 
 <br/>
 
