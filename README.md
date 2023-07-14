@@ -40,7 +40,7 @@ NOTE: Notes will be added by Mission name
 
 ## Roadmap
 
-[Roadmap](./Next Level Web Development.pdf)
+[Roadmap](./media/pdf/Next%20Level%20Web%20Development.pdf)
 
 <br/>
 
