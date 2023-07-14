@@ -70,19 +70,19 @@ NOTE: Notes will be added by Mission name
     <summary> Mission 2: Be A Mongoose Master (Module: 6 - 9) </summary>
     <ol>
         <li>
-            <a href="./missions/mission-1/module-6/notes.md"> Module 6: Installation and Explore Read and Write Queries </a>
+            <a href="./missions/mission-2/module-6/notes.md"> Module 6: Installation and Explore Read and Write Queries </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-7/notes.md"> Module 7: Explore Mongoose More Queries </a>
+            <a href="./missions/mission-2/module-7/notes.md"> Module 7: Explore Mongoose More Queries </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-8/notes.md"> Module 8: MongoDB Aggregation Framework and Indexing </a>
+            <a href="./missions/mission-2/module-8/notes.md"> Module 8: MongoDB Aggregation Framework and Indexing </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-8.5/notes.md"> Module 8.5: Simple Mongoose Practice </a>
+            <a href="./missions/mission-2/module-8.5/notes.md"> Module 8.5: Simple Mongoose Practice </a>
         </li>
         <li>
-            <a href=""> Module 9: Assignment 2 </a>
+            <a href="./missions/mission-2/module-9/notes.md"> Module 9: Assignment 2 </a>
         </li>
     </ol>
 </details>
