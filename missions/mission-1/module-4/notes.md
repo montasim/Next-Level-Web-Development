@@ -2,6 +2,10 @@
 
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=315&height=21&lines=MODULE 4: OOP IN TYPESCRIPT" alt="MODULE 4: OOP IN TYPESCRIPT" />
 
+<hr/>
+
+<br/>
+
 ****4-1: Introduction To Object Oriented Programming****
 
 OOP is writing code in the pattern of an `object`.
