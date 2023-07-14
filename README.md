@@ -67,7 +67,7 @@ NOTE: Notes will be added by Mission name
 </details>
 
 <details>
-    <summary> Mission 2: Be A Mongoose Master (Module: 10 - 19) </summary>
+    <summary> Mission 2: Be A Mongoose Master (Module: 6 - 9) </summary>
     <ol>
         <li>
             <a href="./missions/mission-1/module-6/notes.md"> Module 6: Installation and Explore Read and Write Queries </a>
@@ -88,7 +88,7 @@ NOTE: Notes will be added by Mission name
 </details>
 
 <details>
-    <summary> Mission 3: Be A NoSQL Backend Braniac (Module: 20 - 23) </summary>
+    <summary> Mission 3: Be A NoSQL Backend Braniac (Module: 10 - 19) </summary>
     <ol>
         <li>
             <a href="./missions/mission-1/module-10/notes.md"> Module 10: SDLC, Requirement Analysis and Project Setup </a>
@@ -127,7 +127,7 @@ NOTE: Notes will be added by Mission name
 </details>
 
 <details>
-    <summary> Mission 4: Be A Redux Reaper (Module - 5) </summary>
+    <summary> Mission 4: Be A Redux Reaper (Module: 20 - ongoing) </summary>
     <ol>
         <li>
             <a href="./missions/mission-4/module-20/notes.md"> Module 20: Get started with Redux. A deep dive into Redux's philosophy </a>
