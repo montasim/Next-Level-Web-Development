@@ -142,6 +142,12 @@ NOTE: Notes will be added by Mission name
         <li>
             <a href="./missions/mission-4/module-21/notes.md"> Module 21: Hands on State Management & Crud Operation </a>
         </li>
+        <li>
+            <a href="./missions/mission-4/module-22/notes.md"> Module 22: Handling async tasks using Redux </a>
+        </li>
+        <li>
+            <a href="./missions/mission-4/module-23/notes.md"> Module 23: Assignment 5 </a>
+        </li>
     </ol>
 </details>
 
