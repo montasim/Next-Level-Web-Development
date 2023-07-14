@@ -91,31 +91,31 @@ NOTE: Notes will be added by Mission name
     <summary> Mission 3: Be A NoSQL Backend Braniac (Module: 10 - 19) </summary>
     <ol>
         <li>
-            <a href="./missions/mission-1/module-10/notes.md"> Module 10: SDLC, Requirement Analysis and Project Setup </a>
+            <a href="./missions/mission-3/module-10/notes.md"> Module 10: SDLC, Requirement Analysis and Project Setup </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-11/notes.md"> Module 11: How to setup and organize your project professionally </a>
+            <a href="./missions/mission-3/module-11/notes.md"> Module 11: How to setup and organize your project professionally </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-12/notes.md"> Module 12: Building The Auth Service Part 2 </a>
+            <a href="./missions/mission-3/module-12/notes.md"> Module 12: Building The Auth Service Part 2 </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-13/notes.md"> Module 13: Error handling, Zod, Pagination & Academic Semester </a>
+            <a href="./missions/mission-3/module-13/notes.md"> Module 13: Error handling, Zod, Pagination & Academic Semester </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-14/notes.md"> Module 14: Pagination, Filtering, Complete Academic Semester </a>
+            <a href="./missions/mission-3/module-14/notes.md"> Module 14: Pagination, Filtering, Complete Academic Semester </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-15/notes.md"> Module 15: Complete Student Module, Implement Transaction and Rollback, Practice Faculty Module </a>
+            <a href="./missions/mission-3/module-15/notes.md"> Module 15: Complete Student Module, Implement Transaction and Rollback, Practice Faculty Module </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-15.5/notes.md"> Module 15.5: Practice Day </a>
+            <a href="./missions/mission-3/module-15.5/notes.md"> Module 15.5: Practice Day </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-16/notes.md"> Module 16: Assignment 3 </a>
+            <a href="./missions/mission-3/module-16/notes.md"> Module 16: Assignment 3 </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-17/notes.md"> Module 17: Implement Authentication & Authorization using JWT </a>
+            <a href="./missions/mission-3/module-17/notes.md"> Module 17: Implement Authentication & Authorization using JWT </a>
         </li>
         <li>
             <a href=""> Module 18: Assignment 4 </a>
