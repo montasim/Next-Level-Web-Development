@@ -169,6 +169,7 @@ NOTE: Notes will be added by Mission name
 - [Pick Function Refactoring & Property Management](./articles/pick-function-refactoring-property-management.md)
 - [All about Express Error Handling](./articles/all-about-express-error-handling.md)
 - [Exploring $exists, $type and $size operators](./articles/exploring-exists-type-and-size-operators.md)
+- [Exploring the Power of $inc, $max, $min, and $mul Operators of MongoDb](./articles/exploring-the-power-of-inc-max-min-and-mul-operators-of-mongodb.md)
 
 <br/>
 
@@ -242,6 +243,7 @@ Please read the [contribution guidelines](contributing.md) first.
 - [Mezbaul Abedin Forhan](https://www.facebook.com/groups/196275986482127/user/100051687471216/?__cft__[0]=AZUHgThDMuNrBxWNfQMNWGsF5OF3rKdgg2DbSG3mrAe6uRnaNCNRBYD3oZ2M9U25njZjOZMMeJWUzXEMn5mWDJJIjezco9JFGBzE86Trm1__fo6EIAdKiPedc4GFe5XT0ZqJi8Mjj7PQ1jhbjFbj_ygt&__tn__=-UC%2CP-R) for [Pick Function Refactoring & Property Management](./articles/pick-function-refactoring-property-management.md)
 - [Mezbaul Abedin Forhan](https://www.facebook.com/groups/196275986482127/user/100051687471216/?__cft__[0]=AZUHgThDMuNrBxWNfQMNWGsF5OF3rKdgg2DbSG3mrAe6uRnaNCNRBYD3oZ2M9U25njZjOZMMeJWUzXEMn5mWDJJIjezco9JFGBzE86Trm1__fo6EIAdKiPedc4GFe5XT0ZqJi8Mjj7PQ1jhbjFbj_ygt&__tn__=-UC%2CP-R) for [All about Express Error Handling](./articles/all-about-express-error-handling.md)
 - [Ehtisam Haq](https://www.facebook.com/groups/196275986482127/user/100054686322018/?__cft__[0]=AZXWZQsOJLRUlOnAZXCcdBSnHgV8L_0wHengcczizEHGUOKbtzVlWLpouOzQWUxHonIdIGpIjO8UOacomwLALreh79ZWpTrVVgYS-CcRdd8uznQtmaI7fFqpL3FAn1aOD3WWJI7xD8MEbSgo0cfw0Nco&__tn__=-UC%2CP-R) for [Exploring $exists, $type and $size operators](./articles/exploring-exists-type-and-size-operators.md)
+- [Anisur Rahman](https://www.facebook.com/groups/196275986482127/user/100008280541615/?__cft__[0]=AZWt1z3R3gtFybgOz_zMiyB8XKgGZFf7GBycrIhdCV60RCskF4F_EqMwVBElP6q_RU5i0-pkfT-ZDHC6bnT2uqyQ6i1rO7F6QJuuLLhqjGp__2ENKq7qamMp0j6oSniqndu9aCVaQ7qbhzAPrFZBCgaM&__tn__=-UC%2CP-R) for [Exploring the Power of $inc, $max, $min, and $mul Operators of MongoDb](./articles/exploring-the-power-of-inc-max-min-and-mul-operators-of-mongodb.md)
 
 <br/>
 
