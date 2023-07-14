@@ -2,6 +2,10 @@
 
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=530&height=21&lines=MODULE 3: EXPLORE ADVANCE TYPES of TYPESCRIPT" alt="MODULE 3: EXPLORE ADVANCE TYPES of TYPESCRIPT" />
 
+<hr/>
+
+<br/>
+
 **3-1: Type Assertion**
 
 [go to code]()
