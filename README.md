@@ -38,7 +38,9 @@ NOTE: Notes will be added by Mission name
 
 <br/>
 
-## [Roadmap](./Next Level Web Development.pdf)
+## Roadmap
+
+[Roadmap](./Next Level Web Development.pdf)
 
 <br/>
 
