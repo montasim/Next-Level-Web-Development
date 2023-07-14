@@ -2,6 +2,10 @@
 
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=308&height=21&lines=MODULE 5.5: BONUS MODULE 1" alt="MODULE 5.5: BONUS MODULE 1" />
 
+<hr/>
+
+<br/>
+
 ****5-5 1: What is the module, different formats of module technique, import, and export****
 
 The module is used to control the scope of the variable, function, class, etc. declaration in Typescript just like JavaScript.
