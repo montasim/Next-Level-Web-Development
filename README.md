@@ -237,6 +237,8 @@ Please read the [contribution guidelines](contributing.md) first.
 
 - [Tauhid Hasan](https://github.com/tauhid-hasan-dev) for his [typescript-mongoose-eslint-husky-staged boilerplate](https://github.com/tauhid-hasan-dev/typescript-mongo-mongoose-express-server-with-eslint-prettier-husky-lint-staged)
 - [Dipto Karmaker](https://www.facebook.com/dipto.karmaker.9) for his suggestion to use [BreakTimer](https://breaktimer.app/#download)
+- [Mezbaul Abedin Forhan](https://www.facebook.com/groups/196275986482127/user/100051687471216/?__cft__[0]=AZUHgThDMuNrBxWNfQMNWGsF5OF3rKdgg2DbSG3mrAe6uRnaNCNRBYD3oZ2M9U25njZjOZMMeJWUzXEMn5mWDJJIjezco9JFGBzE86Trm1__fo6EIAdKiPedc4GFe5XT0ZqJi8Mjj7PQ1jhbjFbj_ygt&__tn__=-UC%2CP-R) for [Pick Function Refactoring & Property Management](./articles/pick-function-refactoring-property-management.md)
+- [Mezbaul Abedin Forhan](https://www.facebook.com/groups/196275986482127/user/100051687471216/?__cft__[0]=AZUHgThDMuNrBxWNfQMNWGsF5OF3rKdgg2DbSG3mrAe6uRnaNCNRBYD3oZ2M9U25njZjOZMMeJWUzXEMn5mWDJJIjezco9JFGBzE86Trm1__fo6EIAdKiPedc4GFe5XT0ZqJi8Mjj7PQ1jhbjFbj_ygt&__tn__=-UC%2CP-R) for [All about Express Error Handling](./articles/all-about-express-error-handling.md)
 
 <br/>
 
