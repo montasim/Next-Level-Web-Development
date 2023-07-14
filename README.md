@@ -168,6 +168,7 @@ NOTE: Notes will be added by Mission name
 - [NVM for Windows – How to Download and Install Node Version Manager in Windows 10](https://www.freecodecamp.org/news/nvm-for-windows-how-to-download-and-install-node-version-manager-in-windows-10/)
 - [Pick Function Refactoring & Property Management](./articles/pick-function-refactoring-property-management.md)
 - [All about Express Error Handling](./articles/all-about-express-error-handling.md)
+- [Exploring $exists, $type and $size operators](./articles/exploring-exists-type-and-size-operators.md)
 
 <br/>
 
@@ -240,6 +241,7 @@ Please read the [contribution guidelines](contributing.md) first.
 - [Dipto Karmaker](https://www.facebook.com/dipto.karmaker.9) for his suggestion to use [BreakTimer](https://breaktimer.app/#download)
 - [Mezbaul Abedin Forhan](https://www.facebook.com/groups/196275986482127/user/100051687471216/?__cft__[0]=AZUHgThDMuNrBxWNfQMNWGsF5OF3rKdgg2DbSG3mrAe6uRnaNCNRBYD3oZ2M9U25njZjOZMMeJWUzXEMn5mWDJJIjezco9JFGBzE86Trm1__fo6EIAdKiPedc4GFe5XT0ZqJi8Mjj7PQ1jhbjFbj_ygt&__tn__=-UC%2CP-R) for [Pick Function Refactoring & Property Management](./articles/pick-function-refactoring-property-management.md)
 - [Mezbaul Abedin Forhan](https://www.facebook.com/groups/196275986482127/user/100051687471216/?__cft__[0]=AZUHgThDMuNrBxWNfQMNWGsF5OF3rKdgg2DbSG3mrAe6uRnaNCNRBYD3oZ2M9U25njZjOZMMeJWUzXEMn5mWDJJIjezco9JFGBzE86Trm1__fo6EIAdKiPedc4GFe5XT0ZqJi8Mjj7PQ1jhbjFbj_ygt&__tn__=-UC%2CP-R) for [All about Express Error Handling](./articles/all-about-express-error-handling.md)
+- [Ehtisam Haq](https://www.facebook.com/groups/196275986482127/user/100054686322018/?__cft__[0]=AZXWZQsOJLRUlOnAZXCcdBSnHgV8L_0wHengcczizEHGUOKbtzVlWLpouOzQWUxHonIdIGpIjO8UOacomwLALreh79ZWpTrVVgYS-CcRdd8uznQtmaI7fFqpL3FAn1aOD3WWJI7xD8MEbSgo0cfw0Nco&__tn__=-UC%2CP-R) for [Exploring $exists, $type and $size operators](./articles/exploring-exists-type-and-size-operators.md)
 
 <br/>
 
