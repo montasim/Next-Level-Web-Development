@@ -104,5 +104,7 @@ While the backend implementation is necessary for the project to function as int
 
 <br/>
 
-[Assignment 5 Frontend Solutions](https://github.com/montasim/level-2-assignment-5-book-catalog-frontend)
-[Assignment 5 Backend Solutions](https://github.com/montasim/level-2-assignment-5-book-catalog-backend)
+### Assignment Solutions
+
+- [Frontend Solutions](https://github.com/montasim/level-2-assignment-5-book-catalog-frontend)
+- [Backend Solutions](https://github.com/montasim/level-2-assignment-5-book-catalog-backend)
