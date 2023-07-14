@@ -167,6 +167,7 @@ NOTE: Notes will be added by Mission name
 
 - [NVM for Windows – How to Download and Install Node Version Manager in Windows 10](https://www.freecodecamp.org/news/nvm-for-windows-how-to-download-and-install-node-version-manager-in-windows-10/)
 - [Pick Function Refactoring & Property Management](./articles/pick-function-refactoring-property-management.md)
+- [All about Express Error Handling](./articles/all-about-express-error-handling.md)
 
 <br/>
 
