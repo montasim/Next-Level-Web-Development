@@ -52,7 +52,7 @@ NOTE: Notes will be added by Mission name
             <a href="./missions/mission-1/module-2/notes.md"> Module 2: Explore Basic Types of TypeScript </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-3.md"> Module 3: Explore Advance Types of TypeScript </a>
+            <a href="./missions/mission-1/module-3/notes.md"> Module 3: Explore Advance Types of TypeScript </a>
         </li>
         <li>
             <a href="./missions/mission-1/module-4.md"> Module 4: Object-Oriented Programming in TypeScript </a>
