@@ -154,7 +154,6 @@ NOTE: Notes will be added by Mission name
 - [nodemon](https://nodemon.io/) - *Simple monitor script for use during development of a Node.js app*
 - [ts-node-dev](https://www.npmjs.com/package/ts-node-dev) - *TypeScript execution environment and REPL for node.js*
 
-
 <br/>
 
 ## TOOLS
@@ -168,6 +167,8 @@ NOTE: Notes will be added by Mission name
 
 - [NVM for Windows – How to Download and Install Node Version Manager in Windows 10](https://www.freecodecamp.org/news/nvm-for-windows-how-to-download-and-install-node-version-manager-in-windows-10/)
 - [Pick Function Refactoring & Property Management](./articles/pick-function-refactoring-property-management.md)
+
+<br/>
 
 ## DO NOT FORGET TO DO
 
