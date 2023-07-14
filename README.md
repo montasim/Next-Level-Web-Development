@@ -58,7 +58,7 @@ NOTE: Notes will be added by Mission name
             <a href="./missions/mission-1/module-4/notes.md"> Module 4: Object-Oriented Programming in TypeScript </a>
         </li>
         <li>
-            <a href=""> Module 5 Assignment 1 </a>
+            <a href="./missions/mission-1/module-5/notes.md"> Module 5 Assignment 1 </a>
         </li>
         <li>
             <a href="./missions/mission-1/module-5.5/notes.md"> Module 5.5: Bonus Module </a>
