@@ -168,6 +168,51 @@ NOTE: Notes will be added by Mission name
 
 - [NVM for Windows – How to Download and Install Node Version Manager in Windows 10](https://www.freecodecamp.org/news/nvm-for-windows-how-to-download-and-install-node-version-manager-in-windows-10/)
 
+
+## DO NOT FORGET TO DO
+
+<details>
+    <summary> Vercel এ ডেপ্লয় এর ক্ষেত্রে কয়েকটি জিনিস খেয়াল রাখতে হবে </summary>
+    <br/>
+Vercel এ ডেপ্লয় এর ক্ষেত্রে কয়েকটি জিনিস খেয়াল রাখতে হবে
+
+- tsconfig.json এর মধ্যে
+```jsx
+"module": "commonjs" */* Specify what module code is generated. */*,
+"rootDir": "./src" */* Specify the root folder within your source files. */*,
+"outDir": "./dist" */* Specify an output folder for all emitted files. */*,
+```
+এই কনফিগটি add করে নিতে হবে যদি আগে থেকে করা না থাকে
+- package.json এর মধ্যে
+```jsx
+"scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only src/server.ts",
+    "start": "node dist/server.js",
+    "build": "tsc"
+}
+```
+- প্রজেক্টের রুট এর মধ্যে vercel.json ফাইল বানিইয়ে নিতে হবে
+```jsx
+{
+
+    "version": 2,
+        "builds": [
+        {
+            "src": "dist/server.js",
+            "use": "@vercel/node"
+        }
+    ],
+        "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "dist/server.js"
+        }
+    ]
+}
+```
+এরপর Cli দিয়ে deploy করে নিলেই কাজ শেষ , সার্ভার রেডি
+</details>
+
 <br/>
 
 ## TUTORIALS
