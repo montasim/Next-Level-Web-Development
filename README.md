@@ -118,7 +118,7 @@ NOTE: Notes will be added by Mission name
             <a href="./missions/mission-3/module-17/notes.md"> Module 17: Implement Authentication & Authorization using JWT </a>
         </li>
         <li>
-            <a href=""> Module 18: Assignment 4 </a>
+            <a href="./missions/mission-3/module-18/notes.md"> Module 18: Assignment 4 </a>
         </li>
         <li>
             <a href="./missions/mission-1/module-19/notes.md"> Module 19: Complete Update Password System </a>
