@@ -55,13 +55,13 @@ NOTE: Notes will be added by Mission name
             <a href="./missions/mission-1/module-3/notes.md"> Module 3: Explore Advance Types of TypeScript </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-4.md"> Module 4: Object-Oriented Programming in TypeScript </a>
+            <a href="./missions/mission-1/module-4/notes.md"> Module 4: Object-Oriented Programming in TypeScript </a>
         </li>
         <li>
             <a href=""> Module 5 Assignment 1 </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-5.5.md"> Module 5.5: Bonus Module </a>
+            <a href="./missions/mission-1/module-5.5/notes.md"> Module 5.5: Bonus Module </a>
         </li>
     </ol>
 </details>
@@ -70,16 +70,16 @@ NOTE: Notes will be added by Mission name
     <summary> Mission 2: Be A Mongoose Master (Module - 3) </summary>
     <ol>
         <li>
-            <a href="./missions/mission-1/module-6.md"> Module 6: Installation and Explore Read and Write Queries </a>
+            <a href="./missions/mission-1/module-6/notes.md"> Module 6: Installation and Explore Read and Write Queries </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-7.md"> Module 7: Explore Mongoose More Queries </a>
+            <a href="./missions/mission-1/module-7/notes.md"> Module 7: Explore Mongoose More Queries </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-8.md"> Module 8: MongoDB Aggregation Framework and Indexing </a>
+            <a href="./missions/mission-1/module-8/notes.md"> Module 8: MongoDB Aggregation Framework and Indexing </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-8.5.md"> Module 8.5: Simple Mongoose Practice </a>
+            <a href="./missions/mission-1/module-8.5/notes.md"> Module 8.5: Simple Mongoose Practice </a>
         </li>
         <li>
             <a href=""> Module 9: Assignment 2 </a>
@@ -91,37 +91,37 @@ NOTE: Notes will be added by Mission name
     <summary> Mission 3: Be A NoSQL Backend Braniac (Module - 4) </summary>
     <ol>
         <li>
-            <a href="./missions/mission-1/module-10.md"> Module 10: SDLC, Requirement Analysis and Project Setup </a>
+            <a href="./missions/mission-1/module-10/notes.md"> Module 10: SDLC, Requirement Analysis and Project Setup </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-11.md"> Module 11: How to setup and organize your project professionally </a>
+            <a href="./missions/mission-1/module-11/notes.md"> Module 11: How to setup and organize your project professionally </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-12.md"> Module 12: Building The Auth Service Part 2 </a>
+            <a href="./missions/mission-1/module-12/notes.md"> Module 12: Building The Auth Service Part 2 </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-13.md"> Module 13: Error handling, Zod, Pagination & Academic Semester </a>
+            <a href="./missions/mission-1/module-13/notes.md"> Module 13: Error handling, Zod, Pagination & Academic Semester </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-14.md"> Module 14: Pagination, Filtering, Complete Academic Semester </a>
+            <a href="./missions/mission-1/module-14/notes.md"> Module 14: Pagination, Filtering, Complete Academic Semester </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-15.md"> Module 15: Complete Student Module, Implement Transaction and Rollback, Practice Faculty Module </a>
+            <a href="./missions/mission-1/module-15/notes.md"> Module 15: Complete Student Module, Implement Transaction and Rollback, Practice Faculty Module </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-15.5.md"> Module 15.5: Practice Day </a>
+            <a href="./missions/mission-1/module-15.5/notes.md"> Module 15.5: Practice Day </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-16.md"> Module 16: Assignment 3 </a>
+            <a href="./missions/mission-1/module-16/notes.md"> Module 16: Assignment 3 </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-17.md"> Module 17: Implement Authentication & Authorization using JWT </a>
+            <a href="./missions/mission-1/module-17/notes.md"> Module 17: Implement Authentication & Authorization using JWT </a>
         </li>
         <li>
             <a href=""> Module 18: Assignment 4 </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-19.md"> Module 19: Complete Update Password System </a>
+            <a href="./missions/mission-1/module-19/notes.md"> Module 19: Complete Update Password System </a>
         </li>
     </ol>
 </details>
@@ -133,7 +133,7 @@ NOTE: Notes will be added by Mission name
             <a href="./missions/mission-4/module-20/notes.md"> Module 20: Get started with Redux. A deep dive into Redux's philosophy </a>
         </li>
         <li>
-            <a href="./missions/mission-4/module-21.md"> Module 21: Hands on State Management & Crud Operation </a>
+            <a href="./missions/mission-4/module-21/notes.md"> Module 21: Hands on State Management & Crud Operation </a>
         </li>
     </ol>
 </details>
