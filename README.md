@@ -40,13 +40,13 @@ NOTE: Notes will be added by Mission name
 ## MISSIONS
 
 <details>
-    <summary> Mission 0: Welcome To Next Level Web Development (Module - 1) </summary>
+    <summary> Mission 0: Welcome To Next Level Web Development (Module: 0 - 1) </summary>
     <br/>
     
 </details>
 
 <details>
-    <summary> Mission 1: Be a TypeScript Technocratat (Module - 2) </summary>
+    <summary> Mission 1: Be a TypeScript Technocratat (Module: 2 - 5.5) </summary>
     <ol>
         <li>
             <a href="./missions/mission-1/module-2/notes.md"> Module 2: Explore Basic Types of TypeScript </a>
@@ -67,7 +67,7 @@ NOTE: Notes will be added by Mission name
 </details>
 
 <details>
-    <summary> Mission 2: Be A Mongoose Master (Module - 3) </summary>
+    <summary> Mission 2: Be A Mongoose Master (Module: 10 - 19) </summary>
     <ol>
         <li>
             <a href="./missions/mission-1/module-6/notes.md"> Module 6: Installation and Explore Read and Write Queries </a>
@@ -88,7 +88,7 @@ NOTE: Notes will be added by Mission name
 </details>
 
 <details>
-    <summary> Mission 3: Be A NoSQL Backend Braniac (Module - 4) </summary>
+    <summary> Mission 3: Be A NoSQL Backend Braniac (Module: 20 - 23) </summary>
     <ol>
         <li>
             <a href="./missions/mission-1/module-10/notes.md"> Module 10: SDLC, Requirement Analysis and Project Setup </a>
