@@ -1,3 +1,11 @@
+<img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=580&height=40&lines=MISSION 1: BE A TYPESCRIPT TECHNOCRAT" alt="MISSION 1: BE A TYPESCRIPT TECHNOCRAT" />
+
+<img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=484&height=21&lines=MODULE 7: EXPLORE MONGOOSE MORE QUERIES" alt="MODULE 7: EXPLORE MONGOOSE MORE QUERIES" />
+
+<hr/>
+
+<br/>
+
 ****7-1: Overview Of the previous Module, Install Studio 3T, No SQL Booster****
 
 [Mongoose practice json data](./practice-data.json)
