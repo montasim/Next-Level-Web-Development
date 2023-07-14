@@ -175,6 +175,7 @@ NOTE: Notes will be added by Mission name
 - [Unleashing the Power of Querying : Discover MongoDB's $not and $nor Operators](./articles/unleashing-the-power-of-querying.md)
 - [Boost Your MongoDB Queries: Deep Dive into $in, $nin, and $or Operators](./articles/deep-dive-into-in-nin-and-or-operators.md)
 - [Permanently removing a file from git history](https://stackoverflow.com/questions/58161926/permanently-removing-a-file-from-git-history)
+- [Git - How to Duplicate a Repository with History ( Full duplicate, no fork)](https://www.youtube.com/watch?v=lhlUOSfZu24)
 
 <br/>
 
@@ -254,6 +255,7 @@ Please read the [contribution guidelines](contributing.md) first.
 - [Samin Israr Ravi](https://www.facebook.com/groups/196275986482127/user/100024504072245/?__cft__[0]=AZVXMf8IphXlnTvY7qwcQ0QO7uiL7oRHma-Y2f4ZYZmLuA5utedOgUforGrAAzwhRGABmlKi90kbpUgMv73adUjUM-BtRg_mDji7n4qiApFa0DLdIfx8xsNHQ-QsKBM6AgGDhkclvR7Il49uPqSpFbpW&__tn__=-UC%2CP-R) for [Unleashing the Power of Querying : Discover MongoDB's $not and $nor Operators](./articles/unleashing-the-power-of-querying.md)
 - [Tanmoy Parvez](https://www.facebook.com/groups/196275986482127/user/100009656776349/?__cft__[0]=AZUTBiFBXKkM2Ou-flLonre4RhYVx3SnK18PebfVuXDUlrxpsfhojJ_LVew6cxFtkyWkZBcwnG3IZpWXN_2-NEt6wqrJhqSSQIXhgjuN5ZKkevXcd4fnDUmYmp-uC73SL7YdPz8q5V86RcSICkG3F2_e&__tn__=-UC%2CP-R) for [Boost Your MongoDB Queries: Deep Dive into $in, $nin, and $or Operators](./articles/deep-dive-into-in-nin-and-or-operators.md)
 - [Simba](https://stackoverflow.com/users/5101148/simba) for [Permanently removing a file from git history](https://stackoverflow.com/questions/58161926/permanently-removing-a-file-from-git-history)
+- [Jason Cheung](https://www.youtube.com/@jasoncheung94) for [Git - How to Duplicate a Repository with History ( Full duplicate, no fork)](https://www.youtube.com/watch?v=lhlUOSfZu24)
 
 <br/>
 
