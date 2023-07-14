@@ -76,7 +76,7 @@ Finally, create an object that satisfies the Person interface and log it to the 
 
 <br/>
 
-[Assignment Solutions](https://github.com/montasim/l2tsa1-basic-typescript-montasim)
+[Assignment 1 Solutions](https://github.com/montasim/level-2-assignment-1-basic-typescript)
 
 
 
