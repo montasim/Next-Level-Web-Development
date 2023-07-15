@@ -173,6 +173,7 @@ NOTE: Notes will be added by Mission name
 - [MongoDB $and Operator](./articles/mongodb-and-operator.md)
 - [MongoDB's Update Operators: Mastering $push, $set, and $addToSet for Efficient Data Management](./articles/mongodbs-update-operators.md)
 - [Unleashing the Power of Querying : Discover MongoDB's $not and $nor Operators](./articles/unleashing-the-power-of-querying.md)
+- [Boost Your MongoDB Queries: Deep Dive into $in, $nin, and $or Operators](./articles/deep-dive-into-in-nin-and-or-operators.md)
 
 <br/>
 
@@ -250,6 +251,7 @@ Please read the [contribution guidelines](contributing.md) first.
 - [Anisur Rahman](https://www.facebook.com/groups/196275986482127/user/100008280541615/?__cft__[0]=AZWt1z3R3gtFybgOz_zMiyB8XKgGZFf7GBycrIhdCV60RCskF4F_EqMwVBElP6q_RU5i0-pkfT-ZDHC6bnT2uqyQ6i1rO7F6QJuuLLhqjGp__2ENKq7qamMp0j6oSniqndu9aCVaQ7qbhzAPrFZBCgaM&__tn__=-UC%2CP-R) for [Exploring the Power of $inc, $max, $min, and $mul Operators of MongoDb](./articles/exploring-the-power-of-inc-max-min-and-mul-operators-of-mongodb.md)
 - [Mehedi Anik](https://www.facebook.com/groups/196275986482127/user/100005038366015/?__cft__[0]=AZWT2tLQUda8c7i9m_lbGsy3ZAsCgKj-UOGZomNYcmWhJl0isEYWm2QkfEPGpfUUoqU1UtyRwD-zgemkiVMA5Ju6AaLu2SDX_aV2lXqwVeA_qsNqwQN-0Zr8uEtV0PN_0oorrkAeOXIW70aJhfpzMZo_&__tn__=-UC%2CP-R) for [MongoDB's Update Operators: Mastering $push, $set, and $addToSet for Efficient Data Management](./articles/mongodbs-update-operators.md)
 - [Samin Israr Ravi](https://www.facebook.com/groups/196275986482127/user/100024504072245/?__cft__[0]=AZVXMf8IphXlnTvY7qwcQ0QO7uiL7oRHma-Y2f4ZYZmLuA5utedOgUforGrAAzwhRGABmlKi90kbpUgMv73adUjUM-BtRg_mDji7n4qiApFa0DLdIfx8xsNHQ-QsKBM6AgGDhkclvR7Il49uPqSpFbpW&__tn__=-UC%2CP-R) for [Unleashing the Power of Querying : Discover MongoDB's $not and $nor Operators](./articles/unleashing-the-power-of-querying.md)
+- [Tanmoy Parvez](https://www.facebook.com/groups/196275986482127/user/100009656776349/?__cft__[0]=AZUTBiFBXKkM2Ou-flLonre4RhYVx3SnK18PebfVuXDUlrxpsfhojJ_LVew6cxFtkyWkZBcwnG3IZpWXN_2-NEt6wqrJhqSSQIXhgjuN5ZKkevXcd4fnDUmYmp-uC73SL7YdPz8q5V86RcSICkG3F2_e&__tn__=-UC%2CP-R) for [Boost Your MongoDB Queries: Deep Dive into $in, $nin, and $or Operators](./articles/deep-dive-into-in-nin-and-or-operators.md)
 
 <br/>
 
