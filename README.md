@@ -233,6 +233,8 @@ Vercel এ ডেপ্লয় এর ক্ষেত্রে কয়েকটি
 
 ## TUTORIALS
 
+- [How to test a local website on your phone](https://www.youtube.com/watch?v=uRYHX4EwYYA)
+
 <br/>
 
 ## INSPIRATIONS
