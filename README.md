@@ -134,7 +134,7 @@ NOTE: Notes will be added by Mission name
 </details>
 
 <details>
-    <summary> Mission 4: Be A Redux Reaper (Module: 20 - ongoing) </summary>
+    <summary> Mission 4: Be A Redux Reaper (Module: 20 - 23) </summary>
     <ol>
         <li>
             <a href="./missions/mission-4/module-20/notes.md"> Module 20: Get started with Redux. A deep dive into Redux's philosophy </a>
@@ -147,6 +147,27 @@ NOTE: Notes will be added by Mission name
         </li>
         <li>
             <a href="./missions/mission-4/module-23/notes.md"> Module 23: Assignment 5 </a>
+        </li>
+    </ol>
+</details>
+
+<details>
+    <summary> Mission 5: Be A NextJS Ninja (Module: 24 - 27) </summary>
+    <ol>
+        <li>
+            <a href="./missions/mission-5/module-24/notes.md"> Module 24: Fundamentals of Next.Js </a>
+        </li>
+        <li>
+            <a href="./missions/mission-5/module-25/notes.md"> Module 25: Next Level Data Fetching in Next.Js </a>
+        </li>
+        <li>
+            <a href="./missions/mission-5/module-26/notes.md"> Module 26: Explore NextAuth & App Router </a>
+        </li>
+        <li>
+            <a href="./missions/mission-5/module-26.5/notes.md"> Module 26.5: Practice Day </a>
+        </li>
+        <li>
+            <a href="./missions/mission-5/module-27/notes.md"> Module 27: Assignment-6 </a>
         </li>
     </ol>
 </details>
