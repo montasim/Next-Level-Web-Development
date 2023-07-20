@@ -9,4 +9,4 @@ const NewsDetails = () => {
     );
 };
 
-    export default NewsDetails;
+export default NewsDetails;
