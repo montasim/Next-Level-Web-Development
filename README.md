@@ -176,11 +176,12 @@ NOTE: Notes will be added by Mission name
 
 ## USED PACKAGES
 
-- [yarn](https://yarnpkg.com/) - *Yarn is a package manager that doubles down as project manager.*
+- [yarn](https://yarnpkg.com/) - *Yarn is a package manager that doubles down as project manager*
 - [typescript](https://www.typescriptlang.org/) - *TypeScript is JavaScript with syntax for types*
 - [nodemon](https://nodemon.io/) - *Simple monitor script for use during development of a Node.js app*
 - [ts-node-dev](https://www.npmjs.com/package/ts-node-dev) - *TypeScript execution environment and REPL for node.js*
-- [antd](https://ant.design/docs/react/introduce) - *An enterprise-class UI design language and React UI library with a set of high-quality React components, one of best React UI library for enterprises.*
+- [antd](https://ant.design/docs/react/introduce) - *An enterprise-class UI design language and React UI library with a set of high-quality React components, one of best React UI library for enterprises*
+- [json-server](https://www.npmjs.com/package/json-server) - *Get a full fake REST API with zero coding in less than 30 seconds (seriously)*
 
 <br/>
 
@@ -203,7 +204,7 @@ NOTE: Notes will be added by Mission name
 - [Unleashing the Power of Querying : Discover MongoDB's $not and $nor Operators](./articles/unleashing-the-power-of-querying.md)
 - [Boost Your MongoDB Queries: Deep Dive into $in, $nin, and $or Operators](./articles/deep-dive-into-in-nin-and-or-operators.md)
 - [Permanently removing a file from git history](https://stackoverflow.com/questions/58161926/permanently-removing-a-file-from-git-history)
-- [Git - How to Duplicate a Repository with History ( Full duplicate, no fork)](https://www.youtube.com/watch?v=lhlUOSfZu24)
+- [Create a JSON server](./articles/create-a-json-server.md)
 
 <br/>
 
@@ -255,6 +256,7 @@ Vercel এ ডেপ্লয় এর ক্ষেত্রে কয়েকটি
 
 ## TUTORIALS
 
+- [Git - How to Duplicate a Repository with History ( Full duplicate, no fork)](https://www.youtube.com/watch?v=lhlUOSfZu24)
 - [How to test a local website on your phone](https://www.youtube.com/watch?v=uRYHX4EwYYA)
 
 <br/>
