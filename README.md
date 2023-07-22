@@ -205,6 +205,7 @@ NOTE: Notes will be added by Mission name
 - [Boost Your MongoDB Queries: Deep Dive into $in, $nin, and $or Operators](./articles/deep-dive-into-in-nin-and-or-operators.md)
 - [Permanently removing a file from git history](https://stackoverflow.com/questions/58161926/permanently-removing-a-file-from-git-history)
 - [Create a JSON server](./articles/create-a-json-server.md)
+- [What is the difference between fallback false vs true vs blocking of getStaticPaths with and without revalidate in Next.js SSR/ISR?](https://stackoverflow.com/questions/67787456/what-is-the-difference-between-fallback-false-vs-true-vs-blocking-of-getstaticpa/67787457#67787457)
 
 <br/>
 
@@ -250,6 +251,9 @@ Vercel এ ডেপ্লয় এর ক্ষেত্রে কয়েকটি
 }
 ```
 এরপর Cli দিয়ে deploy করে নিলেই কাজ শেষ , সার্ভার রেডি
+
+If you need to change the environment variable of `Vercel` production always make sure to have a push to the `main branch`.
+
 </details>
 
 <br/>
