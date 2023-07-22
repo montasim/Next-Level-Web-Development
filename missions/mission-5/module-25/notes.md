@@ -242,15 +242,245 @@ GitHub Link Of Starter Pack: https://github.com/Apollo-Level2-Web-Dev/ph-news-po
 
 ### 25-6: Advance Data Fetching Strategies with getServerSideProps()
 
+1. Limitations of SSG
+
+	1. Data processing has a delay
+   2. If a user visits to the side updated data may not be ready. It may be on processing state.
+
+2. To solve the limitations of SSG we need to use SSR.
+
+    ```javascript
+    export const getServerSideProps = async (context) => {
+        const {params} = context;
+        const res = await fetch(`http://localhost:5000/news/${params?.newsId}`);
+        const data = await res?.json();
+    
+        return {
+            props: {
+                news: data,
+            },
+        }
+    };
+    ```
+   
+3. Remember when using `getServerSideProps` 
+    1. You can not use `getStaticProps` or `getStaticPaths` with `getServerSideProps`.
+    2. You can not use `revalidate` when using `getServerSideProps
+
+4. Advantages of `getServerSideProps` over `useEffect`
+
+	1. Get SEO friendly site
+
+5. When to use SSR ot SSG?
+
+	1. Depends on project. 
+   2. If we want to create a blog project or new portal that updates data continuously we need to use SSR. 
+   3. If we want to build a site that does not need to update data frequently like e-commerce, we can use SSG on scheduled time.
+
+6. Build log when using SSR on `[newsIS].js` and SSG on `index.js`
+
+    ```text
+    Route (pages)                              Size     First Load JS
+    ┌ ● / (ISR: 10 Seconds)                    191 B           164 kB
+    ├   /_app                                  0 B            74.2 kB
+    ├ ○ /404                                   929 B           116 kB
+    ├ ○ /about                                 1.2 kB          152 kB
+    ├ ○ /contact                               1.22 kB         152 kB
+    └ λ /news/[newsId]                         517 B           164 kB
+    + First Load JS shared by all              74.3 kB
+      ├ chunks/framework-2c79e2a64abdb08b.js   45.2 kB
+      ├ chunks/main-a9a5f9df1dceef89.js        27.6 kB
+      ├ chunks/pages/_app-85440895f2aa25ce.js  316 B
+      ├ chunks/webpack-87b3a303122f2f0d.js     995 B
+      └ css/c3b07af01e3c0242.css               156 B
+    
+    λ  (Server)  server-side renders at runtime (uses getInitialProps or getServerSideProps)
+    ○  (Static)  automatically rendered as static HTML (uses no initial props)
+    ●  (SSG)     automatically generated as static HTML + JSON (uses getStaticProps)
+       (ISR)     incremental static regeneration (uses revalidate in getStaticProps)
+    ```
+
+7. Build log when using SSR on `[newsIS].js` and `index.js`
+
+    ```text
+    Route (pages)                              Size     First Load JS
+    ┌ λ /                                      191 B           164 kB
+    ├   /_app                                  0 B            74.2 kB
+    ├ ○ /404                                   929 B           116 kB
+    ├ ○ /about                                 1.2 kB          152 kB
+    ├ ○ /contact                               1.22 kB         152 kB
+    └ λ /news/[newsId]                         517 B           164 kB
+    + First Load JS shared by all              74.3 kB
+      ├ chunks/framework-2c79e2a64abdb08b.js   45.2 kB
+      ├ chunks/main-a9a5f9df1dceef89.js        27.6 kB
+      ├ chunks/pages/_app-85440895f2aa25ce.js  316 B
+      ├ chunks/webpack-87b3a303122f2f0d.js     995 B
+      └ css/c3b07af01e3c0242.css               156 B
+    
+    λ  (Server)  server-side renders at runtime (uses getInitialProps or getServerSideProps)
+    ○  (Static)  automatically rendered as static HTML (uses no initial props)
+    ```
+
 <br/>
 
 ### 25-7: A Technical Breakdown of Client-Side Data Fetching using (RTK Query)
 
+1. When to use Client-Side rendering
+	
+	1. Dashboard
+   2. Admin panel
+   3. Where SEO friendly behaviour is not necessary
+
+2. How to use `Redux` with Next.js
+
+    `src/pages/_app.js`
+
+    ```javascript
+    import '@/styles/globals.css'
+    import {Provider} from "react-redux";
+    import {store} from "@/redux/store";
+    
+    export default function App({ Component, pageProps }) {
+    
+      const getLayout = Component.getLayout || ((page) => page);
+    
+      return <Provider store={store}>
+        {
+          getLayout(<Component {...pageProps} />)
+        }
+      </Provider>;
+    }
+    ```
+
+    `src/redux/store.js`
+    
+    ```javascript
+    import { configureStore } from '@reduxjs/toolkit'
+    import {apiSlice} from "./api/api";
+    
+    export const store = configureStore({
+        reducer: {[apiSlice.reducerPath]: apiSlice.reducer},
+        middleware: getDefaultMiddleware =>
+            getDefaultMiddleware().concat(apiSlice.middleware),
+    })
+    ```
+
+    `src/redux/api/api.js`
+    
+    ```javascript
+    // Import the RTK Query methods from the React-specific entry point
+    import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react'
+    
+    // Define our single API slice object
+    export const apiSlice = createApi({
+        // The cache reducer expects to be added at `state.api` (already default - this is optional)
+        reducerPath: 'api',
+        // All of our requests will have URLs starting with '/fakeApi'
+        baseQuery: fetchBaseQuery({ baseUrl: 'http://localhost:5000/' }),
+        // The "endpoints" represent operations and requests for this server
+        endpoints: builder => ({
+            // The `getPosts` endpoint is a "query" operation that returns data
+            getNews: builder.query({
+                // The URL for the request is '/fakeApi/posts'
+                query: () => '/news'
+            })
+        })
+    })
+    
+    // Export the auto-generated hook for the `getPosts` query endpoint
+    export const { useGetNewsQuery } = apiSlice
+    ```
+
+    `src/pages/index.js`
+    
+    ```javascript
+    import Head from "next/head";
+    import RootLayout from "@/components/Layouts/RootLayout";
+    import Banner from "@/components/UI/Banner";
+    import AllNews from "@/components/UI/AllNews";
+    import {useGetNewsQuery} from "@/redux/api/api";
+    
+    
+    const HomePage = ({allNews}) => {
+        const {data, isLoading, isError, error} = useGetNewsQuery();
+    
+        console.log(data);
+    
+      return (
+        <>
+          <Head>
+            <title>PH-News Portal</title>
+            <meta
+              name="description"
+              content="This is news portal of programming hero made by next-js"
+            />
+            <meta name="viewport" content="width=device-width, initial-scale=1" />
+            <link rel="icon" href="/favicon.ico" />
+          </Head>
+          <Banner />
+            <AllNews allNews={data}/>
+        </>
+      );
+    };
+    export default HomePage;
+    
+    HomePage.getLayout = function getLayout(page) {
+      return <RootLayout>{page}</RootLayout>;
+    };
+    
+    export const getServerSideProps = async () => {
+        const res = await fetch('http://localhost:5000/news');
+        const data = await res.json();
+    
+        console.log(data);
+    
+        return {
+            props: {
+                allNews: data,
+            },
+            // revalidate: 10,
+        }
+    }
+    ```
 
 <br/>
 
 ### 25-8: Dynamic import (lazy loading) No SSR
 
+1. When to use [`Lazy Loading` or `dynamic import`](https://nextjs.org/docs/pages/building-your-application/optimizing/lazy-loading)?
+
+   1. Increase performance of the site 
+   2. When a content takes time to load
+   3. We want to display a loading state on the loading time
+
+2. How to use `Lazy Loading` or `dynamic import`?
+
+    ```javascript
+    import dynamic from 'next/dynamic'
+     
+    const DynamicHeader = dynamic(() => import('../components/header'), {
+      loading: () => <p>Loading...</p>,
+    });
+     
+    export default function Home() {
+      return <DynamicHeader />
+    }
+    ```
+
+3. Use Client Side rendering in `Lazy Loading` or `dynamic import`.
+
+    ```javascript
+    import dynamic from 'next/dynamic'
+     
+    const DynamicHeader = dynamic(() => import('../components/header'), {
+      loading: () => <p>Loading...</p>,
+      ssr: false,
+    });
+     
+    export default function Home() {
+      return <DynamicHeader />
+    }
+    ```
 
 <br/>
 

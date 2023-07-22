@@ -182,6 +182,8 @@ NOTE: Notes will be added by Mission name
 - [ts-node-dev](https://www.npmjs.com/package/ts-node-dev) - *TypeScript execution environment and REPL for node.js*
 - [antd](https://ant.design/docs/react/introduce) - *An enterprise-class UI design language and React UI library with a set of high-quality React components, one of best React UI library for enterprises*
 - [json-server](https://www.npmjs.com/package/json-server) - *Get a full fake REST API with zero coding in less than 30 seconds (seriously)*
+- [react-redux](https://redux-toolkit.js.org/tutorials/quick-start) - *The official, opinionated, batteries-included toolset for efficient Redux development*
+- [mongodb](https://www.npmjs.com/package/mongodb) - *The official MongoDB driver for Node.js.*
 
 <br/>
 
