@@ -196,18 +196,19 @@ NOTE: Notes will be added by Mission name
 
 ## ARTICLES
 
-- [NVM for Windows – How to Download and Install Node Version Manager in Windows 10](https://www.freecodecamp.org/news/nvm-for-windows-how-to-download-and-install-node-version-manager-in-windows-10/)
-- [Pick Function Refactoring & Property Management](./articles/pick-function-refactoring-property-management.md)
-- [All about Express Error Handling](./articles/all-about-express-error-handling.md)
-- [Exploring $exists, $type and $size operators](./articles/exploring-exists-type-and-size-operators.md)
-- [Exploring the Power of $inc, $max, $min, and $mul Operators of MongoDb](./articles/exploring-the-power-of-inc-max-min-and-mul-operators-of-mongodb.md)
-- [MongoDB $and Operator](./articles/mongodb-and-operator.md)
-- [MongoDB's Update Operators: Mastering $push, $set, and $addToSet for Efficient Data Management](./articles/mongodbs-update-operators.md)
-- [Unleashing the Power of Querying : Discover MongoDB's $not and $nor Operators](./articles/unleashing-the-power-of-querying.md)
-- [Boost Your MongoDB Queries: Deep Dive into $in, $nin, and $or Operators](./articles/deep-dive-into-in-nin-and-or-operators.md)
-- [Permanently removing a file from git history](https://stackoverflow.com/questions/58161926/permanently-removing-a-file-from-git-history)
-- [Create a JSON server](./articles/create-a-json-server.md)
-- [What is the difference between fallback false vs true vs blocking of getStaticPaths with and without revalidate in Next.js SSR/ISR?](https://stackoverflow.com/questions/67787456/what-is-the-difference-between-fallback-false-vs-true-vs-blocking-of-getstaticpa/67787457#67787457)
+1. [NVM for Windows – How to Download and Install Node Version Manager in Windows 10](https://www.freecodecamp.org/news/nvm-for-windows-how-to-download-and-install-node-version-manager-in-windows-10/)
+2. [Pick Function Refactoring & Property Management](./articles/pick-function-refactoring-property-management.md)
+3. [All about Express Error Handling](./articles/all-about-express-error-handling.md)
+4. [Exploring $exists, $type and $size operators](./articles/exploring-exists-type-and-size-operators.md)
+5. [Exploring the Power of $inc, $max, $min, and $mul Operators of MongoDb](./articles/exploring-the-power-of-inc-max-min-and-mul-operators-of-mongodb.md)
+6. [MongoDB $and Operator](./articles/mongodb-and-operator.md)
+7. [MongoDB's Update Operators: Mastering $push, $set, and $addToSet for Efficient Data Management](./articles/mongodbs-update-operators.md)
+8. [Unleashing the Power of Querying : Discover MongoDB's $not and $nor Operators](./articles/unleashing-the-power-of-querying.md)
+9. [Boost Your MongoDB Queries: Deep Dive into $in, $nin, and $or Operators](./articles/deep-dive-into-in-nin-and-or-operators.md)
+10. [Permanently removing a file from git history](https://stackoverflow.com/questions/58161926/permanently-removing-a-file-from-git-history)
+11. [Create a JSON server](./articles/create-a-json-server.md)
+12. [What is the difference between fallback false vs true vs blocking of getStaticPaths with and without revalidate in Next.js SSR/ISR?](https://stackoverflow.com/questions/67787456/what-is-the-difference-between-fallback-false-vs-true-vs-blocking-of-getstaticpa/67787457#67787457)
+13. [How to use different .env files with nextjs?](https://stackoverflow.com/questions/59462614/how-to-use-different-env-files-with-nextjs)
 
 <br/>
 

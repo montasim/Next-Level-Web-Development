@@ -491,5 +491,8 @@ GitHub Link Of Starter Pack: https://github.com/Apollo-Level2-Web-Dev/ph-news-po
 
 ### 25-10: Explore built-in CSS Module support and Module summary
 
+1. CSS module support
+
+	Same class name of different files will not overwrite latest design.
 
 <br/>
