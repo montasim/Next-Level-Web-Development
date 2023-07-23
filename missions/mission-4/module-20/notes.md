@@ -26,6 +26,7 @@
 - [20-8: Actions, payload and business logic](#20-8-actions-payload-and-business-logic)
 - [20-9: typescript best practice and devtool](#20-9-typescript-best-practice-and-devtool)
 - [20-10: Middleware and custom middleware](#20-10-middleware-and-custom-middleware)
+- [20-11: Module overview](#20-11-module-overview)
 
 <br/>
 
@@ -201,7 +202,57 @@
 
 ### 20-10: Middleware and custom middleware
 
+1. Do not overwrite the default middleware of `Redux`
 
+    ```javascript
+    middleware: (getDefaultMiddleware) => getDefaultMiddleware().concat(logger),
+    ```
+   
+2. How to create custom middleware?
+
+    `src/redux/middleware/logger.ts`
+    
+    ```typescript
+    import {Middleware} from "@reduxjs/toolkit";
+    
+    const logger: Middleware = (store) => (next) => (action) => {
+        console.log('Current State', store.getState());
+        console.log('ACtion', action);
+    
+        next(action);
+    
+        console.log('Updated State', store.getState());
+    }
+    
+    export default logger;
+    ```
+    
+    `src/redux/store.ts`
+    
+    ```typescript
+    import {configureStore} from '@reduxjs/toolkit';
+    import counterReducer from './features/counter/counterSlice';
+    import logger from "./middleware/logger";
+    
+    const store = configureStore({
+        reducer: {
+            counter: counterReducer,
+        },
+        // devTools: true,
+        middleware: (getDefaultMiddleware) => getDefaultMiddleware().concat(logger),
+    });
+    
+    export type RootState = ReturnType<typeof store.getState>
+    export type AppDispatch = typeof store.dispatch
+    
+    export default store;
+    ```
+
+	[Learn More Here](https://redux.js.org/understanding/history-and-design/middleware)
+
+<br/>
+
+### 20-11: Module overview
 
 <br/>
 
