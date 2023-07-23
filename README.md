@@ -15,7 +15,7 @@
 
 <br/>
 
-All of the codes, notes, and ideas from the Next Level Web Development courses will be added here.
+All the codes, notes, and ideas from the Next Level Web Development courses will be added here.
 
 <br/>
 
@@ -176,21 +176,27 @@ NOTE: Notes will be added by Mission name
 
 ## USED PACKAGES
 
-- [yarn](https://yarnpkg.com/) - *Yarn is a package manager that doubles down as project manager*
-- [typescript](https://www.typescriptlang.org/) - *TypeScript is JavaScript with syntax for types*
-- [nodemon](https://nodemon.io/) - *Simple monitor script for use during development of a Node.js app*
-- [ts-node-dev](https://www.npmjs.com/package/ts-node-dev) - *TypeScript execution environment and REPL for node.js*
-- [antd](https://ant.design/docs/react/introduce) - *An enterprise-class UI design language and React UI library with a set of high-quality React components, one of best React UI library for enterprises*
-- [json-server](https://www.npmjs.com/package/json-server) - *Get a full fake REST API with zero coding in less than 30 seconds (seriously)*
-- [react-redux](https://redux-toolkit.js.org/tutorials/quick-start) - *The official, opinionated, batteries-included toolset for efficient Redux development*
-- [mongodb](https://www.npmjs.com/package/mongodb) - *The official MongoDB driver for Node.js.*
+1. [yarn](https://yarnpkg.com/) - *Yarn is a package manager that doubles down as project manager*
+2. [typescript](https://www.typescriptlang.org/) - *TypeScript is JavaScript with syntax for types*
+3. [nodemon](https://nodemon.io/) - *Simple monitor script for use during development of a Node.js app*
+4. [ts-node-dev](https://www.npmjs.com/package/ts-node-dev) - *TypeScript execution environment and REPL for node.js*
+5. [antd](https://ant.design/docs/react/introduce) - *An enterprise-class UI design language and React UI library with a set of high-quality React components, one of best React UI library for enterprises*
+6. [json-server](https://www.npmjs.com/package/json-server) - *Get a full fake REST API with zero coding in less than 30 seconds (seriously)*
+7. [react-redux](https://redux-toolkit.js.org/tutorials/quick-start) - *The official, opinionated, batteries-included toolset for efficient Redux development*
+8. [mongodb](https://www.npmjs.com/package/mongodb) - *The official MongoDB driver for Node.js.*
+9. [vite](https://vitejs.dev/guide/) - *Next Generation Frontend Tooling.*
+10. [tailwindcss](https://tailwindcss.com/docs/installation) - *A utility-first CSS framework.*
+11. [react-router-dom](https://reactrouter.com/en/main/start/tutorial#setup) - *React Router enables "client side routing".*
+12. [@reduxjs/toolkit](https://redux-toolkit.js.org/introduction/getting-started) - *The Redux Toolkit package is intended to be the standard way to write Redux logic.*
+13. [react-redux](https://react-redux.js.org/introduction/getting-started) - *React Redux is the official React UI bindings layer for Redux.*
 
 <br/>
 
 ## TOOLS
 
-- [typescript-mongoose-eslint-husky-staged boilerplate](https://github.com/tauhid-hasan-dev/typescript-mongo-mongoose-express-server-with-eslint-prettier-husky-lint-staged)
-- [BreakTimer](https://breaktimer.app/#download)
+1. [typescript-mongoose-eslint-husky-staged boilerplate](https://github.com/tauhid-hasan-dev/typescript-mongo-mongoose-express-server-with-eslint-prettier-husky-lint-staged)
+2. [BreakTimer](https://breaktimer.app/#download)
+3. [Redux DevTools](https://microsoftedge.microsoft.com/addons/detail/redux-devtools/nnkgneoiohoecpdiaponcejilbhhikei)
 
 <br/>
 
@@ -263,14 +269,14 @@ If you need to change the environment variable of `Vercel` production always mak
 
 ## TUTORIALS
 
-- [Git - How to Duplicate a Repository with History ( Full duplicate, no fork)](https://www.youtube.com/watch?v=lhlUOSfZu24)
-- [How to test a local website on your phone](https://www.youtube.com/watch?v=uRYHX4EwYYA)
+1. [Git - How to Duplicate a Repository with History ( Full duplicate, no fork)](https://www.youtube.com/watch?v=lhlUOSfZu24)
+2. [How to test a local website on your phone](https://www.youtube.com/watch?v=uRYHX4EwYYA)
 
 <br/>
 
 ## INSPIRATIONS
 
-- [Wallpaper - For daily inspiration](./media/images/inspiration-wallpaper.jpeg)
+1. [Wallpaper - For daily inspiration](./media/images/inspiration-wallpaper.jpeg)
 
 <br/>
 
@@ -283,18 +289,18 @@ Please read the [contribution guidelines](contributing.md) first.
 
 ## SPECIAL THANKS
 
-- [Tauhid Hasan](https://github.com/tauhid-hasan-dev) for his [typescript-mongoose-eslint-husky-staged boilerplate](https://github.com/tauhid-hasan-dev/typescript-mongo-mongoose-express-server-with-eslint-prettier-husky-lint-staged)
-- [Dipto Karmaker](https://www.facebook.com/dipto.karmaker.9) for his suggestion to use [BreakTimer](https://breaktimer.app/#download)
-- [Mezbaul Abedin Forhan](https://www.facebook.com/groups/196275986482127/user/100051687471216/?__cft__[0]=AZUHgThDMuNrBxWNfQMNWGsF5OF3rKdgg2DbSG3mrAe6uRnaNCNRBYD3oZ2M9U25njZjOZMMeJWUzXEMn5mWDJJIjezco9JFGBzE86Trm1__fo6EIAdKiPedc4GFe5XT0ZqJi8Mjj7PQ1jhbjFbj_ygt&__tn__=-UC%2CP-R) for [Pick Function Refactoring & Property Management](./articles/pick-function-refactoring-property-management.md)
-- [Mezbaul Abedin Forhan](https://www.facebook.com/groups/196275986482127/user/100051687471216/?__cft__[0]=AZUHgThDMuNrBxWNfQMNWGsF5OF3rKdgg2DbSG3mrAe6uRnaNCNRBYD3oZ2M9U25njZjOZMMeJWUzXEMn5mWDJJIjezco9JFGBzE86Trm1__fo6EIAdKiPedc4GFe5XT0ZqJi8Mjj7PQ1jhbjFbj_ygt&__tn__=-UC%2CP-R) for [All about Express Error Handling](./articles/all-about-express-error-handling.md)
-- [Mezbaul Abedin Forhan](https://www.facebook.com/groups/196275986482127/user/100051687471216/?__cft__[0]=AZUHgThDMuNrBxWNfQMNWGsF5OF3rKdgg2DbSG3mrAe6uRnaNCNRBYD3oZ2M9U25njZjOZMMeJWUzXEMn5mWDJJIjezco9JFGBzE86Trm1__fo6EIAdKiPedc4GFe5XT0ZqJi8Mjj7PQ1jhbjFbj_ygt&__tn__=-UC%2CP-R) for [MongoDB $and Operator](./articles/mongodb-and-operator.md)
-- [Ehtisam Haq](https://www.facebook.com/groups/196275986482127/user/100054686322018/?__cft__[0]=AZXWZQsOJLRUlOnAZXCcdBSnHgV8L_0wHengcczizEHGUOKbtzVlWLpouOzQWUxHonIdIGpIjO8UOacomwLALreh79ZWpTrVVgYS-CcRdd8uznQtmaI7fFqpL3FAn1aOD3WWJI7xD8MEbSgo0cfw0Nco&__tn__=-UC%2CP-R) for [Exploring $exists, $type and $size operators](./articles/exploring-exists-type-and-size-operators.md)
-- [Anisur Rahman](https://www.facebook.com/groups/196275986482127/user/100008280541615/?__cft__[0]=AZWt1z3R3gtFybgOz_zMiyB8XKgGZFf7GBycrIhdCV60RCskF4F_EqMwVBElP6q_RU5i0-pkfT-ZDHC6bnT2uqyQ6i1rO7F6QJuuLLhqjGp__2ENKq7qamMp0j6oSniqndu9aCVaQ7qbhzAPrFZBCgaM&__tn__=-UC%2CP-R) for [Exploring the Power of $inc, $max, $min, and $mul Operators of MongoDb](./articles/exploring-the-power-of-inc-max-min-and-mul-operators-of-mongodb.md)
-- [Mehedi Anik](https://www.facebook.com/groups/196275986482127/user/100005038366015/?__cft__[0]=AZWT2tLQUda8c7i9m_lbGsy3ZAsCgKj-UOGZomNYcmWhJl0isEYWm2QkfEPGpfUUoqU1UtyRwD-zgemkiVMA5Ju6AaLu2SDX_aV2lXqwVeA_qsNqwQN-0Zr8uEtV0PN_0oorrkAeOXIW70aJhfpzMZo_&__tn__=-UC%2CP-R) for [MongoDB's Update Operators: Mastering $push, $set, and $addToSet for Efficient Data Management](./articles/mongodbs-update-operators.md)
-- [Samin Israr Ravi](https://www.facebook.com/groups/196275986482127/user/100024504072245/?__cft__[0]=AZVXMf8IphXlnTvY7qwcQ0QO7uiL7oRHma-Y2f4ZYZmLuA5utedOgUforGrAAzwhRGABmlKi90kbpUgMv73adUjUM-BtRg_mDji7n4qiApFa0DLdIfx8xsNHQ-QsKBM6AgGDhkclvR7Il49uPqSpFbpW&__tn__=-UC%2CP-R) for [Unleashing the Power of Querying : Discover MongoDB's $not and $nor Operators](./articles/unleashing-the-power-of-querying.md)
-- [Tanmoy Parvez](https://www.facebook.com/groups/196275986482127/user/100009656776349/?__cft__[0]=AZUTBiFBXKkM2Ou-flLonre4RhYVx3SnK18PebfVuXDUlrxpsfhojJ_LVew6cxFtkyWkZBcwnG3IZpWXN_2-NEt6wqrJhqSSQIXhgjuN5ZKkevXcd4fnDUmYmp-uC73SL7YdPz8q5V86RcSICkG3F2_e&__tn__=-UC%2CP-R) for [Boost Your MongoDB Queries: Deep Dive into $in, $nin, and $or Operators](./articles/deep-dive-into-in-nin-and-or-operators.md)
-- [Simba](https://stackoverflow.com/users/5101148/simba) for [Permanently removing a file from git history](https://stackoverflow.com/questions/58161926/permanently-removing-a-file-from-git-history)
-- [Jason Cheung](https://www.youtube.com/@jasoncheung94) for [Git - How to Duplicate a Repository with History ( Full duplicate, no fork)](https://www.youtube.com/watch?v=lhlUOSfZu24)
+1. [Tauhid Hasan](https://github.com/tauhid-hasan-dev) for his [typescript-mongoose-eslint-husky-staged boilerplate](https://github.com/tauhid-hasan-dev/typescript-mongo-mongoose-express-server-with-eslint-prettier-husky-lint-staged)
+2. [Dipto Karmaker](https://www.facebook.com/dipto.karmaker.9) for his suggestion to use [BreakTimer](https://breaktimer.app/#download)
+3. [Mezbaul Abedin Forhan](https://www.facebook.com/groups/196275986482127/user/100051687471216/?__cft__[0]=AZUHgThDMuNrBxWNfQMNWGsF5OF3rKdgg2DbSG3mrAe6uRnaNCNRBYD3oZ2M9U25njZjOZMMeJWUzXEMn5mWDJJIjezco9JFGBzE86Trm1__fo6EIAdKiPedc4GFe5XT0ZqJi8Mjj7PQ1jhbjFbj_ygt&__tn__=-UC%2CP-R) for [Pick Function Refactoring & Property Management](./articles/pick-function-refactoring-property-management.md)
+4. [Mezbaul Abedin Forhan](https://www.facebook.com/groups/196275986482127/user/100051687471216/?__cft__[0]=AZUHgThDMuNrBxWNfQMNWGsF5OF3rKdgg2DbSG3mrAe6uRnaNCNRBYD3oZ2M9U25njZjOZMMeJWUzXEMn5mWDJJIjezco9JFGBzE86Trm1__fo6EIAdKiPedc4GFe5XT0ZqJi8Mjj7PQ1jhbjFbj_ygt&__tn__=-UC%2CP-R) for [All about Express Error Handling](./articles/all-about-express-error-handling.md)
+5. [Mezbaul Abedin Forhan](https://www.facebook.com/groups/196275986482127/user/100051687471216/?__cft__[0]=AZUHgThDMuNrBxWNfQMNWGsF5OF3rKdgg2DbSG3mrAe6uRnaNCNRBYD3oZ2M9U25njZjOZMMeJWUzXEMn5mWDJJIjezco9JFGBzE86Trm1__fo6EIAdKiPedc4GFe5XT0ZqJi8Mjj7PQ1jhbjFbj_ygt&__tn__=-UC%2CP-R) for [MongoDB $and Operator](./articles/mongodb-and-operator.md)
+6. [Ehtisam Haq](https://www.facebook.com/groups/196275986482127/user/100054686322018/?__cft__[0]=AZXWZQsOJLRUlOnAZXCcdBSnHgV8L_0wHengcczizEHGUOKbtzVlWLpouOzQWUxHonIdIGpIjO8UOacomwLALreh79ZWpTrVVgYS-CcRdd8uznQtmaI7fFqpL3FAn1aOD3WWJI7xD8MEbSgo0cfw0Nco&__tn__=-UC%2CP-R) for [Exploring $exists, $type and $size operators](./articles/exploring-exists-type-and-size-operators.md)
+7. [Anisur Rahman](https://www.facebook.com/groups/196275986482127/user/100008280541615/?__cft__[0]=AZWt1z3R3gtFybgOz_zMiyB8XKgGZFf7GBycrIhdCV60RCskF4F_EqMwVBElP6q_RU5i0-pkfT-ZDHC6bnT2uqyQ6i1rO7F6QJuuLLhqjGp__2ENKq7qamMp0j6oSniqndu9aCVaQ7qbhzAPrFZBCgaM&__tn__=-UC%2CP-R) for [Exploring the Power of $inc, $max, $min, and $mul Operators of MongoDb](./articles/exploring-the-power-of-inc-max-min-and-mul-operators-of-mongodb.md)
+8. [Mehedi Anik](https://www.facebook.com/groups/196275986482127/user/100005038366015/?__cft__[0]=AZWT2tLQUda8c7i9m_lbGsy3ZAsCgKj-UOGZomNYcmWhJl0isEYWm2QkfEPGpfUUoqU1UtyRwD-zgemkiVMA5Ju6AaLu2SDX_aV2lXqwVeA_qsNqwQN-0Zr8uEtV0PN_0oorrkAeOXIW70aJhfpzMZo_&__tn__=-UC%2CP-R) for [MongoDB's Update Operators: Mastering $push, $set, and $addToSet for Efficient Data Management](./articles/mongodbs-update-operators.md)
+9. [Samin Israr Ravi](https://www.facebook.com/groups/196275986482127/user/100024504072245/?__cft__[0]=AZVXMf8IphXlnTvY7qwcQ0QO7uiL7oRHma-Y2f4ZYZmLuA5utedOgUforGrAAzwhRGABmlKi90kbpUgMv73adUjUM-BtRg_mDji7n4qiApFa0DLdIfx8xsNHQ-QsKBM6AgGDhkclvR7Il49uPqSpFbpW&__tn__=-UC%2CP-R) for [Unleashing the Power of Querying : Discover MongoDB's $not and $nor Operators](./articles/unleashing-the-power-of-querying.md)
+10. [Tanmoy Parvez](https://www.facebook.com/groups/196275986482127/user/100009656776349/?__cft__[0]=AZUTBiFBXKkM2Ou-flLonre4RhYVx3SnK18PebfVuXDUlrxpsfhojJ_LVew6cxFtkyWkZBcwnG3IZpWXN_2-NEt6wqrJhqSSQIXhgjuN5ZKkevXcd4fnDUmYmp-uC73SL7YdPz8q5V86RcSICkG3F2_e&__tn__=-UC%2CP-R) for [Boost Your MongoDB Queries: Deep Dive into $in, $nin, and $or Operators](./articles/deep-dive-into-in-nin-and-or-operators.md)
+11. [Simba](https://stackoverflow.com/users/5101148/simba) for [Permanently removing a file from git history](https://stackoverflow.com/questions/58161926/permanently-removing-a-file-from-git-history)
+12. [Jason Cheung](https://www.youtube.com/@jasoncheung94) for [Git - How to Duplicate a Repository with History ( Full duplicate, no fork)](https://www.youtube.com/watch?v=lhlUOSfZu24)
 
 <br/>
 
