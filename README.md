@@ -53,7 +53,7 @@ NOTE: Notes will be added by Mission name
 </details>
 
 <details>
-    <summary> Mission 1: Be a TypeScript Technocratat (Module: 2 - 5.5) </summary>
+    <summary> Mission 1: Be a TypeScript Technocrat (Module: 2 - 5.5) </summary>
     <ol>
         <li>
             <a href="./missions/mission-1/module-2/notes.md"> Module 2: Explore Basic Types of TypeScript </a>
@@ -101,7 +101,7 @@ NOTE: Notes will be added by Mission name
             <a href="./missions/mission-3/module-10/notes.md"> Module 10: SDLC, Requirement Analysis and Project Setup </a>
         </li>
         <li>
-            <a href="./missions/mission-3/module-11/notes.md"> Module 11: How to setup and organize your project professionally </a>
+            <a href="./missions/mission-3/module-11/notes.md"> Module 11: How to set up and organize your project professionally </a>
         </li>
         <li>
             <a href="./missions/mission-3/module-12/notes.md"> Module 12: Building The Auth Service Part 2 </a>
@@ -128,7 +128,7 @@ NOTE: Notes will be added by Mission name
             <a href="./missions/mission-3/module-18/notes.md"> Module 18: Assignment 4 </a>
         </li>
         <li>
-            <a href="./missions/mission-1/module-19/notes.md"> Module 19: Complete Update Password System </a>
+            <a href="./missions/mission-3/module-19/notes.md"> Module 19: Complete Update Password System </a>
         </li>
     </ol>
 </details>
@@ -140,7 +140,7 @@ NOTE: Notes will be added by Mission name
             <a href="./missions/mission-4/module-20/notes.md"> Module 20: Get started with Redux. A deep dive into Redux's philosophy </a>
         </li>
         <li>
-            <a href="./missions/mission-4/module-21/notes.md"> Module 21: Hands on State Management & Crud Operation </a>
+            <a href="./missions/mission-4/module-21/notes.md"> Module 21: Hands-on State Management & Crud Operation </a>
         </li>
         <li>
             <a href="./missions/mission-4/module-22/notes.md"> Module 22: Handling async tasks using Redux </a>
@@ -226,14 +226,14 @@ NOTE: Notes will be added by Mission name
 Vercel এ ডেপ্লয় এর ক্ষেত্রে কয়েকটি জিনিস খেয়াল রাখতে হবে
 
 - tsconfig.json এর মধ্যে
-```jsx
+```json
 "module": "commonjs" */* Specify what module code is generated. */*,
 "rootDir": "./src" */* Specify the root folder within your source files. */*,
 "outDir": "./dist" */* Specify an output folder for all emitted files. */*,
 ```
 এই কনফিগটি add করে নিতে হবে যদি আগে থেকে করা না থাকে
 - package.json এর মধ্যে
-```jsx
+```json
 "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only src/server.ts",
     "start": "node dist/server.js",
@@ -241,7 +241,7 @@ Vercel এ ডেপ্লয় এর ক্ষেত্রে কয়েকটি
 }
 ```
 - প্রজেক্টের রুট এর মধ্যে vercel.json ফাইল বানিইয়ে নিতে হবে
-```jsx
+```json
 {
 
     "version": 2,
@@ -283,7 +283,7 @@ If you need to change the environment variable of `Vercel` production always mak
 ## CONTRIBUTE
 
 Contributions are always welcome!
-Please read the [contribution guidelines](contributing.md) first.
+Please read the [contribution guidelines](CONTRIBUTION.md) first.
 
 <br/>
 
