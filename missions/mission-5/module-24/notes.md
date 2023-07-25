@@ -89,7 +89,7 @@
 ### 24-2. Why Next.Js? The Competitive Edge of Next.Js over React.Js
 
 1. Why Next.js?
-   > Next.js is React.js's partners/combiners`
+   > Next.js is React.js's partners/combiners
 2. The competitive edge of Next.js over React.js
    1. React.js is a library. Next.js is a framework
    2. Use Next.js for Full-Stack application development
@@ -120,8 +120,8 @@
 
 1. Next.js follows 2 types of folder structure
 	1. Pages router
-    2. App router (stable) 
-       ```Creating components using app router will be server component that will be generated from server. This server components has limited CSS components library supports```
+    2. App router (Not stable) 
+       ```Creating components using app router will be server component that will be generated from server. This server components has limited CSS components library supports. When creating client component have to use 'use client' keyword at the top of the file. getStaticProps, getServersideProps, getStaticPaths will not work in app router.```
 
 <br/>
 
@@ -130,7 +130,7 @@
 1. What's in Next.js?
 	1. Build in optimizations
    		1. Image optimization (converts to small size but maintains same resolution)
-	2. 	Dynamic HTM<L streaming
+	2. 	Dynamic HTML streaming
    3. React server components
    4. Data fetching
    5. CSS supports ```Same CSS can be used on different components but style will not overwrite```
@@ -140,11 +140,14 @@
    9. Powerful routing and layouts
    10. Middleware
 2. File based routing system
-	```Create a new file inside the pages folder and a new route will be created using the file name```
+	```Create a new file inside the pages folder and a new route will be created using the file name and file name of the page have to be start with small letter.```
 
 <br/>
 
 ### 24-6: Exploring Dynamic Routes and Nested Routing
+* For nested routing create a folder inside the pages folder and create a file inside the folder. The route will be created using the folder name and file name. 
+  * By using ```index.js``` in a folder it will be the default route of the folder. And the route will be created using the folder name. Also other files inside the folder will be the sub route of the folder. The route will be created using the folder name and file name.
+* For dynamic routing create a file inside the pages folder and the file name have to be start with `[` and end with `]` such as `[product].js`. The route will be created using the file name.
 
 <br/>
 
@@ -172,9 +175,11 @@
     export default NewsDetails;
     ```
 
-2. Catch all routes after dynamic route `[...slug].js`
+2. 'Catch all routes' after dynamic route `[...slug].js`
+   * This used for filtering most of the case. `src => pages => news => [...slug].js` then the route can be `http://localhost:3000/news/2021/08/24/this-is-a-test-news` 
 
-3. Custom 404 page
+3. Custom 404 page. 
+   * Have to create a file with name `404.js` inside the pages folder. The file name have to be start with `404`. 
 
     ```text
     File name: 404.js
@@ -261,7 +266,9 @@
      
     export default function Page() {
       return (
-        /** Your content */
+        <>
+            /** Your content */
+        </>
       )
     }
      
@@ -522,7 +529,7 @@
    1. Relative path `../components/Layouts/RootLayout.js`
    2. Absolute path `@/components/Layouts/RootLayout.js`
 2. Next.js uses `Head` components for SEO friendly website
-3. Use Next.js <title> instead of react-helmet
+3. Use Next.js `<title>` instead of react-helmet
    
    ```javascript
    <Head>
