@@ -1,3 +1,21 @@
 {
+  "description": "All of the codes, notes, and ideas from the Next Level Web Development courses will be added here.",
+  "keywords": [
+    "notes",
+    "programming-hero",
+    "programming-hero-class",
+    "typescript",
+    "next-level-web-development",
+    "programming-hero-notes",
+    "javascript",
+    "learning",
+    "learning-notes",
+    "learning-resources",
+    "expressjs",
+    "mongodb",
+    "mongodb-database",
+    "nodejs",
+    "redux"
+  ],
   "dependencies": {}
 }
